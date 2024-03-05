@@ -18,6 +18,8 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"cenario","order":2,"path":"folders/Sprites/cenario.yy",},
+    {"name":"cen_test","order":1,"path":"folders/Sprites/cenario/cen_test.yy",},
     {"name":"char","order":1,"path":"folders/Sprites/char.yy",},
     {"name":"player","order":1,"path":"folders/Sprites/char/player.yy",},
   ],
