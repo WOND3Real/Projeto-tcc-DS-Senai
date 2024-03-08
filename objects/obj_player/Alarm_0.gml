@@ -1,0 +1,1 @@
+state = st_player_parado;

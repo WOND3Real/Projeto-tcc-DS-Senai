@@ -7,3 +7,9 @@ _jump_force = -10
 _wall_jump = 2
 x_scale = 0
 _movimento = 5
+
+//dash
+dash_dir = 0;
+dash_veloc = 6;
+
+state = st_player_parado;

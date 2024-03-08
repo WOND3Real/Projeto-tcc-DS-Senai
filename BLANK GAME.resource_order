@@ -25,5 +25,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_camera","order":3,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_dash","order":1,"path":"objects/obj_dash/obj_dash.yy",},
   ],
 }
