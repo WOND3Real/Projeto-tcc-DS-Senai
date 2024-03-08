@@ -104,6 +104,15 @@ function st_player_parado(){
 
 
 function st_player_dash(){
-	_velh = dash_veloc*dash_dir
+	_velh = dash_veloc*dash_dir;
+	_nextx = x + _velh;
+	if (place_meeting(_nextx, y, obj_cenario)) {
+        while (!place_meeting(x + sign(_velh), y, obj_cenario)) {
+			x += sign(_velh);
+        }
+		_velh = 0;
+	}
+    
 	x+=_velh;
+ 
 }
