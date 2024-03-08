@@ -1,4 +1,4 @@
-window_set_size(690,360)
+window_set_size(640,360)
 _vel = 5
 _velh = 0
 _velv = 0
@@ -9,6 +9,7 @@ x_scale = 0
 _movimento = 5
 
 //dash
+_dash_qnt = 2
 dash_dir = 0;
 dash_veloc = 6;
 
